@@ -12,7 +12,7 @@ export default function Projects() {
                 Projects
               </h1>
               <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                Below are a collection of projects that I have completed to showcase my skills in multiple technologies.
+                Below are a collection of projects that I have completed to showcase my skills in multiple technologies. Hover over the tile to see information about the project and click to view the project on GitHub.
               </p>
             </div>
             <div className="flex flex-wrap -m-4">
